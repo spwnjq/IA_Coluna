@@ -22,9 +22,9 @@ modelo.zip
 ## ⚙️ Como Executar
 
 ### 1. Instale as dependências
-
+``` bash
 pip install tensorflow matplotlib
-
+```
 Coloque o arquivo modelo.zip na mesma pasta do script. O arquvo modelo.zip é o obtido como database de imagens em sites como Kaggle;
 
 ### 2. Execute o script
