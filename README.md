@@ -32,4 +32,7 @@ Coloque o arquivo modelo.zip na mesma pasta do script. O arquvo modelo.zip é o 
 python treino_coluna.py
 
 
-### 3. Execute o script
+## - Base de dados e Arquivo .h5
+
+- Base = https://drive.google.com/file/d/12Wc8LuRLk2JPjHkBW__UH173WtsQ7uR1/view?usp=sharing
+- Arquivo .h5 = https://drive.google.com/file/d/1NKYTj3BJuZ31s3MErCOZywDkDvq9q3bM/view?usp=sharing
