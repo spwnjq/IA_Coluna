@@ -23,14 +23,14 @@ modelo.zip
 
 ### 1. Instale as dependências
 ``` bash
-pip install tensorflow matplotlib
+pip install tensorflow matplotlib pillow
 ```
 Coloque o arquivo modelo.zip na mesma pasta do script. O arquvo modelo.zip é o obtido como database de imagens em sites como Kaggle;
 
 ### 2. Execute o script
-
+``` bash
 python treino_coluna.py
-
+```
 
 ## - Base de dados e Arquivo .h5
 
